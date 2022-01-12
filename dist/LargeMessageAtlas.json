@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "LargeMessageAtlas.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1324,
+				"h": 450
+			},
+			"scale": 0.5,
+			"frames": [
+				{
+					"filename": "2_PoundStake_EntryMessage.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 660,
+						"h": 448
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 660,
+						"h": 448
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 660,
+						"h": 448
+					}
+				},
+				{
+					"filename": "FreeSpins_EntryMessage.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 660,
+						"h": 448
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 660,
+						"h": 448
+					},
+					"frame": {
+						"x": 663,
+						"y": 1,
+						"w": 660,
+						"h": 448
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:6aa31edbde782b1ddfcfd0fdd0766bb2:36153f4d65e31ed5f8a67310f42950ef:08627104992921d8d69d74a5ddae1746$"
+	}
+}

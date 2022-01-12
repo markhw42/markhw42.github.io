@@ -1,0 +1,545 @@
+{
+	"textures": [
+		{
+			"image": "OctopusAnimation.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 451,
+				"h": 976
+			},
+			"scale": 0.5,
+			"frames": [
+				{
+					"filename": "Octopus_0016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 153,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 13,
+						"w": 151,
+						"h": 179
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 151,
+						"h": 179
+					}
+				},
+				{
+					"filename": "Octopus_0015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 153,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 17,
+						"w": 150,
+						"h": 170
+					},
+					"frame": {
+						"x": 1,
+						"y": 182,
+						"w": 150,
+						"h": 170
+					}
+				},
+				{
+					"filename": "Octopus_0017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 153,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 23,
+						"w": 151,
+						"h": 158
+					},
+					"frame": {
+						"x": 154,
+						"y": 1,
+						"w": 151,
+						"h": 158
+					}
+				},
+				{
+					"filename": "Octopus_0009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 153,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 42,
+						"w": 143,
+						"h": 109
+					},
+					"frame": {
+						"x": 307,
+						"y": 1,
+						"w": 143,
+						"h": 109
+					}
+				},
+				{
+					"filename": "Octopus_0014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 153,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 22,
+						"w": 149,
+						"h": 158
+					},
+					"frame": {
+						"x": 1,
+						"y": 354,
+						"w": 149,
+						"h": 158
+					}
+				},
+				{
+					"filename": "Octopus_0006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 153,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 44,
+						"w": 143,
+						"h": 105
+					},
+					"frame": {
+						"x": 307,
+						"y": 112,
+						"w": 143,
+						"h": 105
+					}
+				},
+				{
+					"filename": "Octopus_0013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 153,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 28,
+						"w": 149,
+						"h": 144
+					},
+					"frame": {
+						"x": 1,
+						"y": 514,
+						"w": 149,
+						"h": 144
+					}
+				},
+				{
+					"filename": "Octopus_0018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 153,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 29,
+						"w": 152,
+						"h": 139
+					},
+					"frame": {
+						"x": 1,
+						"y": 660,
+						"w": 152,
+						"h": 139
+					}
+				},
+				{
+					"filename": "Octopus_0012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 153,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 31,
+						"w": 146,
+						"h": 136
+					},
+					"frame": {
+						"x": 1,
+						"y": 801,
+						"w": 146,
+						"h": 136
+					}
+				},
+				{
+					"filename": "Octopus_0022.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 153,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 45,
+						"w": 148,
+						"h": 107
+					},
+					"frame": {
+						"x": 154,
+						"y": 161,
+						"w": 148,
+						"h": 107
+					}
+				},
+				{
+					"filename": "Octopus_0019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 153,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 38,
+						"w": 152,
+						"h": 120
+					},
+					"frame": {
+						"x": 153,
+						"y": 270,
+						"w": 152,
+						"h": 120
+					}
+				},
+				{
+					"filename": "Octopus_0023.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 153,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 47,
+						"w": 143,
+						"h": 104
+					},
+					"frame": {
+						"x": 307,
+						"y": 219,
+						"w": 143,
+						"h": 104
+					}
+				},
+				{
+					"filename": "Octopus_0008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 153,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 47,
+						"w": 143,
+						"h": 103
+					},
+					"frame": {
+						"x": 307,
+						"y": 325,
+						"w": 143,
+						"h": 103
+					}
+				},
+				{
+					"filename": "Octopus_0011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 153,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 33,
+						"w": 145,
+						"h": 130
+					},
+					"frame": {
+						"x": 152,
+						"y": 392,
+						"w": 145,
+						"h": 130
+					}
+				},
+				{
+					"filename": "Octopus_0010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 153,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 37,
+						"w": 145,
+						"h": 121
+					},
+					"frame": {
+						"x": 152,
+						"y": 524,
+						"w": 145,
+						"h": 121
+					}
+				},
+				{
+					"filename": "Octopus_0007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 153,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 46,
+						"w": 144,
+						"h": 104
+					},
+					"frame": {
+						"x": 299,
+						"y": 430,
+						"w": 144,
+						"h": 104
+					}
+				},
+				{
+					"filename": "Octopus_0005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 153,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 46,
+						"w": 142,
+						"h": 104
+					},
+					"frame": {
+						"x": 299,
+						"y": 536,
+						"w": 142,
+						"h": 104
+					}
+				},
+				{
+					"filename": "Octopus_0020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 153,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 43,
+						"w": 152,
+						"h": 111
+					},
+					"frame": {
+						"x": 155,
+						"y": 647,
+						"w": 152,
+						"h": 111
+					}
+				},
+				{
+					"filename": "Octopus_0004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 153,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 48,
+						"w": 141,
+						"h": 102
+					},
+					"frame": {
+						"x": 309,
+						"y": 642,
+						"w": 141,
+						"h": 102
+					}
+				},
+				{
+					"filename": "Octopus_0021.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 153,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 42,
+						"w": 152,
+						"h": 111
+					},
+					"frame": {
+						"x": 155,
+						"y": 760,
+						"w": 152,
+						"h": 111
+					}
+				},
+				{
+					"filename": "Octopus_0003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 153,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 48,
+						"w": 139,
+						"h": 102
+					},
+					"frame": {
+						"x": 309,
+						"y": 746,
+						"w": 139,
+						"h": 102
+					}
+				},
+				{
+					"filename": "Octopus_0024.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 153,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 49,
+						"w": 139,
+						"h": 102
+					},
+					"frame": {
+						"x": 149,
+						"y": 873,
+						"w": 139,
+						"h": 102
+					}
+				},
+				{
+					"filename": "Octopus_0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 153,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 49,
+						"w": 138,
+						"h": 102
+					},
+					"frame": {
+						"x": 309,
+						"y": 850,
+						"w": 138,
+						"h": 102
+					}
+				},
+				{
+					"filename": "Octopus_0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 153,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 49,
+						"w": 138,
+						"h": 102
+					},
+					"frame": {
+						"x": 309,
+						"y": 850,
+						"w": 138,
+						"h": 102
+					}
+				},
+				{
+					"filename": "Octopus_0025.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 153,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 49,
+						"w": 138,
+						"h": 102
+					},
+					"frame": {
+						"x": 309,
+						"y": 850,
+						"w": 138,
+						"h": 102
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:8111c684ba3926cda275e9168453506c:7fc5f1783acb4e8c707a7eb550d09ebf:b83bc79fd3fd89cc22b4607852081726$"
+	}
+}

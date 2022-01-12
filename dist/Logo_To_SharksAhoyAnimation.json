@@ -1,0 +1,608 @@
+{
+	"textures": [
+		{
+			"image": "Logo_To_SharksAhoyAnimation.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1962,
+				"h": 1111
+			},
+			"scale": 0.5,
+			"frames": [
+				{
+					"filename": "Logo_To_SharksAhoy_0015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 550,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 0,
+						"w": 542,
+						"h": 297
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 542,
+						"h": 297
+					}
+				},
+				{
+					"filename": "Logo_To_SharksAhoy_0014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 550,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 0,
+						"w": 539,
+						"h": 297
+					},
+					"frame": {
+						"x": 1,
+						"y": 300,
+						"w": 539,
+						"h": 297
+					}
+				},
+				{
+					"filename": "Logo_To_SharksAhoy_0013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 550,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 0,
+						"w": 536,
+						"h": 277
+					},
+					"frame": {
+						"x": 545,
+						"y": 1,
+						"w": 536,
+						"h": 277
+					}
+				},
+				{
+					"filename": "Logo_To_SharksAhoy_0012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 550,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 545,
+						"h": 248
+					},
+					"frame": {
+						"x": 1083,
+						"y": 1,
+						"w": 545,
+						"h": 248
+					}
+				},
+				{
+					"filename": "Logo_To_SharksAhoy_0011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 550,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 0,
+						"w": 532,
+						"h": 227
+					},
+					"frame": {
+						"x": 1,
+						"y": 599,
+						"w": 532,
+						"h": 227
+					}
+				},
+				{
+					"filename": "Logo_To_SharksAhoy_0010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 550,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 0,
+						"w": 527,
+						"h": 197
+					},
+					"frame": {
+						"x": 1,
+						"y": 828,
+						"w": 527,
+						"h": 197
+					}
+				},
+				{
+					"filename": "Logo_To_SharksAhoy_0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 550,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 0,
+						"w": 507,
+						"h": 83
+					},
+					"frame": {
+						"x": 1,
+						"y": 1027,
+						"w": 507,
+						"h": 83
+					}
+				},
+				{
+					"filename": "Logo_To_SharksAhoy_0009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 550,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 0,
+						"w": 525,
+						"h": 174
+					},
+					"frame": {
+						"x": 1083,
+						"y": 251,
+						"w": 525,
+						"h": 174
+					}
+				},
+				{
+					"filename": "Logo_To_SharksAhoy_0008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 550,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 0,
+						"w": 522,
+						"h": 153
+					},
+					"frame": {
+						"x": 545,
+						"y": 280,
+						"w": 522,
+						"h": 153
+					}
+				},
+				{
+					"filename": "Logo_To_SharksAhoy_0007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 550,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 0,
+						"w": 519,
+						"h": 134
+					},
+					"frame": {
+						"x": 542,
+						"y": 435,
+						"w": 519,
+						"h": 134
+					}
+				},
+				{
+					"filename": "Logo_To_SharksAhoy_0004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 550,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 0,
+						"w": 519,
+						"h": 92
+					},
+					"frame": {
+						"x": 542,
+						"y": 571,
+						"w": 519,
+						"h": 92
+					}
+				},
+				{
+					"filename": "Logo_To_SharksAhoy_0006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 550,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 0,
+						"w": 517,
+						"h": 116
+					},
+					"frame": {
+						"x": 535,
+						"y": 665,
+						"w": 517,
+						"h": 116
+					}
+				},
+				{
+					"filename": "Logo_To_SharksAhoy_0005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 550,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 0,
+						"w": 516,
+						"h": 101
+					},
+					"frame": {
+						"x": 535,
+						"y": 783,
+						"w": 516,
+						"h": 101
+					}
+				},
+				{
+					"filename": "Logo_To_SharksAhoy_0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 550,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 0,
+						"w": 507,
+						"h": 86
+					},
+					"frame": {
+						"x": 530,
+						"y": 886,
+						"w": 507,
+						"h": 86
+					}
+				},
+				{
+					"filename": "Logo_To_SharksAhoy_0003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 550,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 0,
+						"w": 507,
+						"h": 86
+					},
+					"frame": {
+						"x": 530,
+						"y": 974,
+						"w": 507,
+						"h": 86
+					}
+				},
+				{
+					"filename": "Logo_To_SharksAhoy_0016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 550,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 0,
+						"w": 445,
+						"h": 77
+					},
+					"frame": {
+						"x": 1069,
+						"y": 427,
+						"w": 445,
+						"h": 77
+					}
+				},
+				{
+					"filename": "Logo_To_SharksAhoy_0023.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 550,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 0,
+						"w": 445,
+						"h": 158
+					},
+					"frame": {
+						"x": 1063,
+						"y": 506,
+						"w": 445,
+						"h": 158
+					}
+				},
+				{
+					"filename": "Logo_To_SharksAhoy_0024.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 550,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 0,
+						"w": 445,
+						"h": 141
+					},
+					"frame": {
+						"x": 1054,
+						"y": 666,
+						"w": 445,
+						"h": 141
+					}
+				},
+				{
+					"filename": "Logo_To_SharksAhoy_0017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 550,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 0,
+						"w": 445,
+						"h": 76
+					},
+					"frame": {
+						"x": 1053,
+						"y": 809,
+						"w": 445,
+						"h": 76
+					}
+				},
+				{
+					"filename": "Logo_To_SharksAhoy_0025.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 550,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 0,
+						"w": 445,
+						"h": 124
+					},
+					"frame": {
+						"x": 1039,
+						"y": 887,
+						"w": 445,
+						"h": 124
+					}
+				},
+				{
+					"filename": "Logo_To_SharksAhoy_0018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 550,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 0,
+						"w": 445,
+						"h": 76
+					},
+					"frame": {
+						"x": 1039,
+						"y": 1013,
+						"w": 445,
+						"h": 76
+					}
+				},
+				{
+					"filename": "Logo_To_SharksAhoy_0019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 550,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 0,
+						"w": 445,
+						"h": 77
+					},
+					"frame": {
+						"x": 1516,
+						"y": 427,
+						"w": 445,
+						"h": 77
+					}
+				},
+				{
+					"filename": "Logo_To_SharksAhoy_0026.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 550,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 0,
+						"w": 445,
+						"h": 104
+					},
+					"frame": {
+						"x": 1510,
+						"y": 506,
+						"w": 445,
+						"h": 104
+					}
+				},
+				{
+					"filename": "Logo_To_SharksAhoy_0020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 550,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 0,
+						"w": 445,
+						"h": 82
+					},
+					"frame": {
+						"x": 1510,
+						"y": 612,
+						"w": 445,
+						"h": 82
+					}
+				},
+				{
+					"filename": "Logo_To_SharksAhoy_0022.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 550,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 0,
+						"w": 445,
+						"h": 92
+					},
+					"frame": {
+						"x": 1501,
+						"y": 696,
+						"w": 445,
+						"h": 92
+					}
+				},
+				{
+					"filename": "Logo_To_SharksAhoy_0021.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 550,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 0,
+						"w": 445,
+						"h": 87
+					},
+					"frame": {
+						"x": 1501,
+						"y": 790,
+						"w": 445,
+						"h": 87
+					}
+				},
+				{
+					"filename": "Logo_To_SharksAhoy_0027.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 550,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 0,
+						"w": 445,
+						"h": 84
+					},
+					"frame": {
+						"x": 1500,
+						"y": 879,
+						"w": 445,
+						"h": 84
+					}
+				},
+				{
+					"filename": "Logo_To_SharksAhoy_0028.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 550,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 0,
+						"w": 445,
+						"h": 76
+					},
+					"frame": {
+						"x": 1486,
+						"y": 965,
+						"w": 445,
+						"h": 76
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:670dfabe9a07871e326231b4193d84e7:3a6299fc5f29c70990fd64c85c923abf:73a06f78d443d21a704ec562bd7ccbe4$"
+	}
+}

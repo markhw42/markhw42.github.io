@@ -1,0 +1,545 @@
+{
+	"textures": [
+		{
+			"image": "SwordfishAnimation.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1010,
+				"h": 596
+			},
+			"scale": 0.5,
+			"frames": [
+				{
+					"filename": "Swordfish_0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 45,
+						"w": 135,
+						"h": 114
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 135,
+						"h": 114
+					}
+				},
+				{
+					"filename": "Swordfish_0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 45,
+						"w": 135,
+						"h": 114
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 135,
+						"h": 114
+					}
+				},
+				{
+					"filename": "Swordfish_0003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 45,
+						"w": 135,
+						"h": 114
+					},
+					"frame": {
+						"x": 138,
+						"y": 1,
+						"w": 135,
+						"h": 114
+					}
+				},
+				{
+					"filename": "Swordfish_0025.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 45,
+						"w": 135,
+						"h": 114
+					},
+					"frame": {
+						"x": 275,
+						"y": 1,
+						"w": 135,
+						"h": 114
+					}
+				},
+				{
+					"filename": "Swordfish_0023.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 44,
+						"w": 146,
+						"h": 115
+					},
+					"frame": {
+						"x": 412,
+						"y": 1,
+						"w": 146,
+						"h": 115
+					}
+				},
+				{
+					"filename": "Swordfish_0024.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 44,
+						"w": 135,
+						"h": 115
+					},
+					"frame": {
+						"x": 560,
+						"y": 1,
+						"w": 135,
+						"h": 115
+					}
+				},
+				{
+					"filename": "Swordfish_0004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 43,
+						"w": 135,
+						"h": 116
+					},
+					"frame": {
+						"x": 697,
+						"y": 1,
+						"w": 135,
+						"h": 116
+					}
+				},
+				{
+					"filename": "Swordfish_0022.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 43,
+						"w": 149,
+						"h": 116
+					},
+					"frame": {
+						"x": 834,
+						"y": 1,
+						"w": 149,
+						"h": 116
+					}
+				},
+				{
+					"filename": "Swordfish_0005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 40,
+						"w": 146,
+						"h": 119
+					},
+					"frame": {
+						"x": 1,
+						"y": 117,
+						"w": 146,
+						"h": 119
+					}
+				},
+				{
+					"filename": "Swordfish_0006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 38,
+						"w": 150,
+						"h": 122
+					},
+					"frame": {
+						"x": 149,
+						"y": 117,
+						"w": 150,
+						"h": 122
+					}
+				},
+				{
+					"filename": "Swordfish_0021.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 41,
+						"w": 150,
+						"h": 122
+					},
+					"frame": {
+						"x": 301,
+						"y": 118,
+						"w": 150,
+						"h": 122
+					}
+				},
+				{
+					"filename": "Swordfish_0007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 34,
+						"w": 154,
+						"h": 130
+					},
+					"frame": {
+						"x": 453,
+						"y": 118,
+						"w": 154,
+						"h": 130
+					}
+				},
+				{
+					"filename": "Swordfish_0020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 39,
+						"w": 153,
+						"h": 130
+					},
+					"frame": {
+						"x": 609,
+						"y": 119,
+						"w": 153,
+						"h": 130
+					}
+				},
+				{
+					"filename": "Swordfish_0019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 37,
+						"w": 156,
+						"h": 134
+					},
+					"frame": {
+						"x": 764,
+						"y": 119,
+						"w": 156,
+						"h": 134
+					}
+				},
+				{
+					"filename": "Swordfish_0018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 31,
+						"w": 161,
+						"h": 141
+					},
+					"frame": {
+						"x": 1,
+						"y": 241,
+						"w": 161,
+						"h": 141
+					}
+				},
+				{
+					"filename": "Swordfish_0008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 29,
+						"w": 159,
+						"h": 142
+					},
+					"frame": {
+						"x": 164,
+						"y": 242,
+						"w": 159,
+						"h": 142
+					}
+				},
+				{
+					"filename": "Swordfish_0009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 24,
+						"w": 164,
+						"h": 149
+					},
+					"frame": {
+						"x": 325,
+						"y": 250,
+						"w": 164,
+						"h": 149
+					}
+				},
+				{
+					"filename": "Swordfish_0017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 23,
+						"w": 170,
+						"h": 150
+					},
+					"frame": {
+						"x": 491,
+						"y": 251,
+						"w": 170,
+						"h": 150
+					}
+				},
+				{
+					"filename": "Swordfish_0010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 19,
+						"w": 169,
+						"h": 155
+					},
+					"frame": {
+						"x": 663,
+						"y": 255,
+						"w": 169,
+						"h": 155
+					}
+				},
+				{
+					"filename": "Swordfish_0016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 16,
+						"w": 175,
+						"h": 158
+					},
+					"frame": {
+						"x": 834,
+						"y": 255,
+						"w": 175,
+						"h": 158
+					}
+				},
+				{
+					"filename": "Swordfish_0011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 14,
+						"w": 177,
+						"h": 160
+					},
+					"frame": {
+						"x": 1,
+						"y": 386,
+						"w": 177,
+						"h": 160
+					}
+				},
+				{
+					"filename": "Swordfish_0015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 8,
+						"w": 181,
+						"h": 167
+					},
+					"frame": {
+						"x": 180,
+						"y": 401,
+						"w": 181,
+						"h": 167
+					}
+				},
+				{
+					"filename": "Swordfish_0012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 186,
+						"h": 172
+					},
+					"frame": {
+						"x": 363,
+						"y": 403,
+						"w": 186,
+						"h": 172
+					}
+				},
+				{
+					"filename": "Swordfish_0014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 2,
+						"w": 185,
+						"h": 174
+					},
+					"frame": {
+						"x": 551,
+						"y": 412,
+						"w": 185,
+						"h": 174
+					}
+				},
+				{
+					"filename": "Swordfish_0013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 212
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 0,
+						"w": 188,
+						"h": 180
+					},
+					"frame": {
+						"x": 738,
+						"y": 415,
+						"w": 188,
+						"h": 180
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:63f7ae1c9d87114c23cf94e7a86be070:50af518c72934c2c4344590c9d16da88:f5871e47e015b61551d8fe9918e7d64f$"
+	}
+}
